@@ -1,0 +1,23 @@
+a.nav-link:hover {
+    color: #ffffff;
+    background-color: #007bff;
+    text-decoration: underline;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.footer{
+    padding-top: 1.2vh;
+}
+
+
+/* css untuk input nilai */
+/* styles.css */
+body, html {
+    height: 100%;
+}
+
+.vertical-center {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+.border{
+    background-color: silver;
+    border: 8px solid black;
+    border-radius: 20px;
+    margin-top: 45px;
+}
+.labelm{
+    margin-right: 30px;
+    color: black;
+    font-weight: bold;
+}
+.menuscol{
+    padding-bottom: 52.8vh;
+}
